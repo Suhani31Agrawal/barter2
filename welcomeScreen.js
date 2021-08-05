@@ -177,7 +177,7 @@ export default class welcomeScreen extends React.Component {
                   <View>
                     {this.showModal}
                   </View>
-                    <SantaAnimation/>
+                    <BARTER/>
                     <Text style={styles.title}>BOOKSANTA</Text>
                 </View>
                 <View style={styles.buttonContainer}>
